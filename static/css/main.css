@@ -1,0 +1,22 @@
+body{
+    color:#333;
+    background-color: #eaeaea;
+    }
+a{
+    text-decoration: none;
+    color: inherit;
+}
+h1,h2,h3,h4,h5,h6{
+    color: #1e965a;
+}
+.article-metadata, .article-metadata a{
+    color: #565655;
+}
+.media {
+    background: #fff;
+    box-shadow: 0 0 20px #a5a5a5;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 0.5);
+    font-weight: 600;
+}
